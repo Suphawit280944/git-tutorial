@@ -5,3 +5,6 @@
 <?php echo "Mahanakorn"; ?>
 
 <?php echo "I love Doraemon"; ?>
+<?php echo "I love Doraemon"; ?>
+
+<?php echo "I love You"; ?>
